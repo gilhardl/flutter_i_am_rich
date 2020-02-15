@@ -11,7 +11,7 @@ void main() {
         ),
         body: Center(
           child: Image(
-            image: AssetImage('https://source.unsplash.com/1600x900/?cat'),
+            image: AssetImage('images/diamond.png'),
           ),
         ),
       ),
